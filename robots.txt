@@ -1,0 +1,4 @@
+# Mientras el sitio este en construccion, cada pagina lleva noindex.
+# Los rastreadores pueden entrar para leerlo; al lanzar se quita el noindex.
+User-agent: *
+Allow: /

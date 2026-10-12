@@ -1,0 +1,22 @@
+# Pasa herramientas/comprobar.py en cada push a main.
+#
+# Es el mismo ritual que se hace a mano antes de cerrar una tanda, pero corre
+# tambien cuando nadie se acuerda, y sirve de red entre las dos maquinas que
+# construyen el sitio: si una sube algo que rompe una regla, se ve en rojo.
+
+name: Comprobar el sitio
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python herramientas/comprobar.py

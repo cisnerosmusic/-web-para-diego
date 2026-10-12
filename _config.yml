@@ -1,0 +1,14 @@
+# Lo que GitHub Pages NO publica.
+#
+# El repositorio es publico en GitHub, pero el dominio solo tiene que servir el
+# sitio. Un documento o una carpeta nueva que no sea parte del sitio se anade
+# aqui; herramientas/comprobar.py falla si un .md de la raiz o herramientas/
+# se quedan fuera de esta lista.
+exclude:
+  - AGENTS.md
+  - CLAUDE.md
+  - DESIGN.md
+  - PENDIENTES.md
+  - PRODUCT.md
+  - README.md
+  - herramientas

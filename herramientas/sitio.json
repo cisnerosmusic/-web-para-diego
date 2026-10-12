@@ -1,0 +1,166 @@
+{
+  "lanzado": false,
+  "marca": "DR-USA",
+  "marca_confirmada": false,
+  "whatsapp": "",
+  "dominio": "",
+  "zona": "Miami, FL",
+  "en": {
+    "ruta": "",
+    "titulo": "DR-USA · Paintless Dent Repair in Miami",
+    "descripcion": "Paintless dent repair at your shop or your driveway in Miami. Dents out before wrap or PPF, factory paint untouched. Get a quote by photo on WhatsApp.",
+    "saltar": "Skip to content",
+    "nav_idioma": "Language",
+    "lema": "PAINTLESS DENT REPAIR",
+    "hero": {
+      "etiqueta": "Paintless dent repair · Miami, FL",
+      "titulo": "The dent tech shops call before the film.",
+      "entrada": "I come to your shop or your driveway. The panel comes out right and the factory paint stays.",
+      "boton_cotizar": "Get a quote by photo",
+      "boton_taller": "I run a shop"
+    },
+    "puertas_aria": "Choose your path",
+    "puertas": [
+      {"ancla": "talleres", "etiqueta": "Wrap · PPF · Tint · Dealers", "titulo": "I run a shop", "texto": "Dents out on site, before the film goes on. Your bay, your schedule."},
+      {"ancla": "autos", "etiqueta": "Car owners", "titulo": "I have a car", "texto": "Door dings, parking lot hits, hail. Fixed where your car is parked."}
+    ],
+    "como": {
+      "etiqueta": "How it works",
+      "titulo": "Two photos, one price, done where the car is",
+      "pasos": [
+        {"titulo": "Send two photos", "texto": "One of the dent from about 3 feet, one of the whole panel. Answer four quick questions."},
+        {"titulo": "Get a price", "texto": "I reply on WhatsApp with a quote, or tell you straight if paintless repair won't work."},
+        {"titulo": "I come to you", "texto": "Your shop, your home or your office. No drop-off, no rental car."}
+      ]
+    },
+    "talleres": {
+      "etiqueta": "For shops and dealers",
+      "titulo": "Film shows every flaw. The panel goes in corrected.",
+      "texto": "Wrap and PPF magnify any dent under them. I take the damage out in your bay first, so your installer works on a straight panel and the car keeps its place in line.",
+      "boton": "Book a visit",
+      "puntos": [
+        {"titulo": "The car never leaves your shop", "texto": "No towing to a body shop, no lost install slot."},
+        {"titulo": "Ready before the film", "texto": "Dents and dings out before wrap, PPF or tint."},
+        {"titulo": "Recurring visits", "texto": "Set days each week or month for steady volume."},
+        {"titulo": "Invoiced to your business", "texto": "Clear paperwork for every job."}
+      ]
+    },
+    "autos": {
+      "etiqueta": "For car owners",
+      "titulo": "The dent goes. The factory paint stays.",
+      "texto": "Paintless dent repair pushes the metal back from behind the panel with specialized tools. No filler, no repaint, no color matching. The original finish stays on your car.",
+      "puntos": [
+        {"titulo": "At your home or office", "texto": "I work where the car is parked."},
+        {"titulo": "Same factory finish", "texto": "Nothing is sanded or repainted."},
+        {"titulo": "A straight answer first", "texto": "If your dent needs a body shop, I'll tell you before any work starts."}
+      ]
+    },
+    "limites": {
+      "etiqueta": "Honest limits",
+      "titulo": "When paintless repair is not the answer",
+      "items": [
+        {"titulo": "Cracked or chipped paint", "texto": "The panel will need paint work anyway."},
+        {"titulo": "Stretched metal", "texto": "Very deep or sharp impacts can stretch the steel beyond repair."},
+        {"titulo": "Sharp body lines and edges", "texto": "Sometimes possible, sometimes not. Photos tell."},
+        {"titulo": "Panels with old filler", "texto": "Previous body work under the paint limits what can be done."}
+      ]
+    },
+    "cotizar": {
+      "etiqueta": "Quote by photo",
+      "titulo": "Tell me about the dent",
+      "texto": "Fill this in and it opens WhatsApp with your details ready to send. Then attach the two photos in the chat.",
+      "nombre": "Name",
+      "zona": "Area or ZIP",
+      "vehiculo": "Vehicle (year, make, model)",
+      "soy": "I am",
+      "soy_opciones": ["Choose one", "A wrap, PPF or tint shop", "A dealership or fleet", "A car owner"],
+      "borde": "Does the dent touch an edge or a body line?",
+      "pintura": "Is the paint cracked?",
+      "repintado": "Was the panel repainted before?",
+      "respuestas": ["Yes", "No", "Not sure"],
+      "notas": "Anything else",
+      "nota_fotos": "Photos to attach in WhatsApp: the dent from about 3 feet away, and the whole panel.",
+      "enviar": "Continue on WhatsApp"
+    },
+    "pie_sitio": "Website by"
+  },
+  "es": {
+    "ruta": "es/",
+    "titulo": "DR-USA · Reparación de abolladuras sin pintura en Miami",
+    "descripcion": "Reparación de abolladuras sin pintura en tu taller o en tu casa, en Miami. El golpe sale antes del wrap o el PPF y la pintura de fábrica no se toca. Cotiza con fotos por WhatsApp.",
+    "saltar": "Saltar al contenido",
+    "nav_idioma": "Idioma",
+    "lema": "ABOLLADURAS SIN PINTURA",
+    "hero": {
+      "etiqueta": "Abolladuras sin pintura · Miami, FL",
+      "titulo": "El técnico que los talleres llaman antes del film.",
+      "entrada": "Llego a tu taller o a tu casa. El panel queda perfecto y la pintura de fábrica no se toca.",
+      "boton_cotizar": "Cotizar con fotos",
+      "boton_taller": "Tengo un taller"
+    },
+    "puertas_aria": "Elige tu camino",
+    "puertas": [
+      {"ancla": "talleres", "etiqueta": "Wrap · PPF · Tint · Concesionarios", "titulo": "Tengo un taller", "texto": "Saco el golpe en tu taller, antes de que entre el film. Tu bahía, tu horario."},
+      {"ancla": "autos", "etiqueta": "Dueños de autos", "titulo": "Tengo un auto", "texto": "Golpes de puerta, del parqueo, granizo. Lo arreglo donde está estacionado."}
+    ],
+    "como": {
+      "etiqueta": "Cómo funciona",
+      "titulo": "Dos fotos, un precio, el arreglo donde está el auto",
+      "pasos": [
+        {"titulo": "Manda dos fotos", "texto": "Una del golpe a un metro, otra del panel completo. Contesta cuatro preguntas rápidas."},
+        {"titulo": "Recibe el precio", "texto": "Te respondo por WhatsApp con la cotización, o te digo claro si sin pintura no se puede."},
+        {"titulo": "Voy a donde estés", "texto": "Tu taller, tu casa o tu oficina. Sin dejar el auto, sin auto de alquiler."}
+      ]
+    },
+    "talleres": {
+      "etiqueta": "Para talleres y concesionarios",
+      "titulo": "El film muestra todo. El panel entra corregido.",
+      "texto": "El wrap y el PPF agrandan cualquier golpe que quede debajo. Saco el daño primero en tu taller: tu instalador trabaja sobre un panel recto y el auto no pierde su turno.",
+      "boton": "Agendar una visita",
+      "puntos": [
+        {"titulo": "El auto no sale de tu taller", "texto": "Sin grúa a otro body shop, sin perder el turno de instalación."},
+        {"titulo": "Listo antes del film", "texto": "Golpes y abolladuras fuera antes del wrap, el PPF o el tint."},
+        {"titulo": "Visitas fijas", "texto": "Días acordados cada semana o cada mes para un volumen constante."},
+        {"titulo": "Factura a tu negocio", "texto": "Papeles claros en cada trabajo."}
+      ]
+    },
+    "autos": {
+      "etiqueta": "Para dueños de autos",
+      "titulo": "El golpe se va. La pintura de fábrica se queda.",
+      "texto": "La reparación sin pintura empuja el metal desde detrás del panel con herramientas especiales. Sin masilla, sin repintar, sin igualar colores. El acabado original sigue en tu auto.",
+      "puntos": [
+        {"titulo": "En tu casa o tu oficina", "texto": "Trabajo donde está estacionado el auto."},
+        {"titulo": "El mismo acabado de fábrica", "texto": "No se lija ni se pinta nada."},
+        {"titulo": "Primero, una respuesta clara", "texto": "Si tu golpe necesita un body shop, te lo digo antes de empezar."}
+      ]
+    },
+    "limites": {
+      "etiqueta": "Límites honestos",
+      "titulo": "Cuando sin pintura no es la respuesta",
+      "items": [
+        {"titulo": "Pintura rajada o saltada", "texto": "El panel va a necesitar pintura igual."},
+        {"titulo": "Metal estirado", "texto": "Un golpe muy profundo o filoso puede estirar la chapa más allá de lo reparable."},
+        {"titulo": "Líneas marcadas y bordes", "texto": "A veces se puede, a veces no. Las fotos lo dicen."},
+        {"titulo": "Paneles con masilla vieja", "texto": "Un trabajo de chapa anterior bajo la pintura limita lo que se puede hacer."}
+      ]
+    },
+    "cotizar": {
+      "etiqueta": "Cotizar con fotos",
+      "titulo": "Cuéntame del golpe",
+      "texto": "Llena esto y se abre WhatsApp con tus datos listos para enviar. Después adjunta las dos fotos en el chat.",
+      "nombre": "Nombre",
+      "zona": "Zona o ZIP",
+      "vehiculo": "Vehículo (año, marca, modelo)",
+      "soy": "Soy",
+      "soy_opciones": ["Elige una", "Un taller de wrap, PPF o tint", "Un concesionario o flota", "Dueño de un auto"],
+      "borde": "¿El golpe toca un borde o una línea de la carrocería?",
+      "pintura": "¿La pintura está rajada?",
+      "repintado": "¿El panel fue repintado antes?",
+      "respuestas": ["Sí", "No", "No sé"],
+      "notas": "Algo más",
+      "nota_fotos": "Fotos para adjuntar en WhatsApp: el golpe a un metro de distancia y el panel completo.",
+      "enviar": "Seguir en WhatsApp"
+    },
+    "pie_sitio": "Sitio por"
+  }
+}
